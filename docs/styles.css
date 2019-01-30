@@ -1,0 +1,19 @@
+body {
+  background: #dde;
+}
+
+.container {
+  display: block;
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+
+}
+
+h2 {
+  background: #888;
+  color: whitesmoke;
+  margin: 0 auto;
+  padding: 10px 30px;
+}
+
